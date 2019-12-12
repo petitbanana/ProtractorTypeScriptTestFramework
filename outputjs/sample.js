@@ -9,4 +9,3 @@ var startup = /** @class */ (function () {
     return startup;
 }());
 startup.runMain();
-//# sourceMappingURL=sample.js.map
